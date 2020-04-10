@@ -21,7 +21,7 @@ return [
     |
     */
     //'key' => env('GOOGLE_API_KEY', 'AIzaSyAtqWsq5Ai3GYv6dSa6311tZiYKlbYT4mw'),
-	'key' => env('GOOGLE_API_KEY', 'AIzaSyDC3YRasNV3zO4PE8-Gqqrw29gKHxycutM'),
+	'key' => env('GOOGLE_API_KEY', ''),
     /*
     |--------------------------------------------------------------------------
     | Region
